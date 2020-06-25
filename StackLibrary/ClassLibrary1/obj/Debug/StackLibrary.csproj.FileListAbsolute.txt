@@ -1,0 +1,6 @@
+C:\Users\Pinkman\source\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Pinkman\source\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Pinkman\source\ClassLibrary1\obj\Debug\StackLibrary.csprojAssemblyReference.cache
+C:\Users\Pinkman\source\ClassLibrary1\obj\Debug\StackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pinkman\source\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Pinkman\source\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
